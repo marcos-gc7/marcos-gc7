@@ -15,12 +15,15 @@ My name is Marcos Antonio Gomes Castro, i'm 18 and i are natural of Alagoas. Cur
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-<img
-  alt="Github Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-gc7&theme=dark&layout=compact&custom_title=Most Used Languages"
-/>
+<p>
+  <img
+    align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-gc7&theme=dark&layout=compact&custom_title=Most Used Languages"
+  />
+</p>
 
 ## 	📲 Contact
 
