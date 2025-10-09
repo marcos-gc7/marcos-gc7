@@ -15,25 +15,28 @@ My name is Marcos Antonio Gomes Castro, i'm 18 and i are natural of Alagoas. Cur
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-<p>
-  <img
-    align="left"
-    alt="Github Stats"
-    height="120px"
-    style="padding-right: 10px; margin-bottom: 10px; margin-top: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-gc7&theme=dark&layout=compact&custom_title=MostUsedLanguages"
-  />
-</p>
- 
-## 	📲 Contact
-
-<p align="left" style="background:yellow">
-
- <a href="www.linkedin.com/in/marcos-castro7" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/gmarcos.castro7" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-
-</p>
+<div style="display: flex; flex-direction: column;">
+  <p>
+    <img
+      align="left"
+      alt="Github Stats"
+      height="120px"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-gc7&theme=dark&layout=compact&custom_title=MostUsedLanguages"
+    />
+  </p>
+  
+  
+  ## 	📲 Contact
+  
+  <p align="left" style="background:yellow">
+  
+   <a href="www.linkedin.com/in/marcos-castro7" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/gmarcos.castro7" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  
+  </p>
+</div>
