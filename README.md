@@ -20,7 +20,7 @@ My name is Marcos Antonio Gomes Castro, i'm 18 and i are natural of Alagoas. Cur
     align="left"
     alt="Github Stats"
     height="120px"
-    style="padding-right: 10px;"
+    style="padding-right: 10px; margin-bottom: 10px; margin-top: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-gc7&theme=dark&layout=compact&custom_title=MostUsedLanguages"
   />
 </p>
