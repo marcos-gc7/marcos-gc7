@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-My name is Marcos Antonio Gomes Castro, i'm 18 and i are natural of Alagoas. Currently i'm cursing Information Systems in UFAL.
+My name is Marcos Antonio Gomes Castro, i'm 18 and i'm natural of Alagoas. Currently i'm cursing Information Systems in UFAL.
 
 ### 🛠 &nbsp;Tech Stack
 
